@@ -19,7 +19,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Estudiante de 8vo semestre de la carrera de Ingeniería en computación en la ""Universidad Autónoma del Estado de México, egresado de la carrera Técnica en Informática.
+Estudiante de 8vo semestre de la carrera de Ingeniería en computación en la [Universidad Autónoma del Estado de México](https://cuvalledemexico.uaemex.mx/), egresado de la carrera Técnica en Informática.
 
 Especialmente interesado en el desarollo de inteligencia artificial y sus aplicaciones en el campo educacional.
 

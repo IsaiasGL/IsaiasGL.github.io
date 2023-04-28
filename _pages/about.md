@@ -21,4 +21,6 @@ social: true  # includes social icons at the bottom of the page
 
 Estudiante de 8vo semestre de la carrera de Ingeniería en computación en la [Universidad Autónoma del Estado de México](https://cuvalledemexico.uaemex.mx/), egresado de la carrera Técnica en Informática.
 
-Especialmente interesado en el desarollo de inteligencia artificial y sus aplicaciones en el campo educacional.
+Especialmente interesado en el desarollo de inteligencia artificial, sus aplicaciones en el campo educacional y diseño de planos y modelos en 3D con autocad
+
+Muestra de mi primer trabajo con autocad en [Youtube](https://www.youtube.com/watch?v=UWIDXcxV5AE&ab_channel=Isa%C3%ADasGaona).

@@ -19,10 +19,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Estudiante de 8vo semestre de la carrera de Ingeniería en computación en la Universidad Autónoma del Estado de México, egresado de la carrera Técnica en Informática.
+Estudiante de 8vo semestre de la carrera de Ingeniería en computación en la ""Universidad Autónoma del Estado de México, egresado de la carrera Técnica en Informática.
 
-Especialmente interesado en el desarollo de inteligencia artifificial y sus aplicaciones en el campo educacional.
-Write your biography here.
+Especialmente interesado en el desarollo de inteligencia artificial y sus aplicaciones en el campo educacional.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
